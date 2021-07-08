@@ -1,0 +1,25 @@
+: 1625750194:0;. /home/jeet/.cache/pypoetry/virtualenvs/example-Bmz67FWg-py3.8/bin/activate
+: 1625750224:0;clear
+: 1625750234:0;python -m ropes
+: 1625750240:0;python -m ro
+: 1625750243:0;clear
+: 1625750257:0;poetry add antigravity
+: 1625750267:0;bat pyproject.toml
+: 1625750283:0;py -m antigravity
+: 1625750295:0;clear
+: 1625750478:0;python -m example
+: 1625750485:0;python example
+: 1625750495:0;clear
+: 1625750545:0;python example
+: 1625750548:0;python -m example
+: 1625750589:0;test.py
+: 1625750600:0;touch test.py
+: 1625750602:0;clear
+: 1625750651:0;py test
+: 1625750657:0;py test.py
+: 1625750855:0;mv README.rst README.md
+: 1625751158:0;clear
+: 1625751204:0;git remote add origin git@github.com:jeetelongname/python-example.git
+: 1625751214:0;git add . 
+: 1625751218:0;git commit
+: 1625751246:0;git commit -am "Commit 3"

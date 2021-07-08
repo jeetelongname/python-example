@@ -3,3 +3,7 @@
 
 def func_name():
     return "from a functio"
+
+
+def funky(name):
+    return "you are funky " + name
